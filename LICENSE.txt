@@ -1,0 +1,36 @@
+# OFFICIAL LICENSE AGREEMENT: ASF PRO (ADVANCED SERVICE FRAMEWORK)
+
+PROPRIETARY PROJECT: ASF PRO
+DEVELOPER: JUTT CYBER TECH
+CONTACT: juttcybertech@proton.me
+WEBSITE: https://juttcybertech.com
+
+---------------------------------------------------------------------------
+
+## 1. OFFICIAL STATUS & OWNERSHIP
+This software is an official release by Jutt Cyber Tech. It is a proprietary, closed-source security tool protected under international copyright and intellectual property laws. 
+
+## 2. PROFESSIONAL AUTHORIZED USE
+ASF Pro is a specialized security framework designed for:
+- **Authorized Penetration Testing**: Auditing and securing Android devices where the user has explicit, legal permission from the owner.
+- **Security Research**: Identifying vulnerabilities and performing defensive analysis in controlled environments.
+- **Educational Forensics**: Teaching advanced mobile security and digital forensics techniques.
+
+## 3. ZERO TOLERANCE: ANTI-MALWARE POLICY
+Jutt Cyber Tech strictly prohibits any use of ASF Pro for:
+- Unauthorised surveillance, spying, or data interception.
+- Illegal access to private information or account credentials.
+- Any activity that violates the privacy rights of individuals or groups.
+- Any action that circumvents local, national, or international cybersecurity laws.
+
+## 4. LEGAL COMPLIANCE & USAGE
+Users are solely responsible for compliance with all relevant laws. Jutt Cyber Tech does not endorse or allow the use of this tool for "Black Hat" or malicious activities. Any such misuse is a fundamental breach of this license and will be reported to appropriate authorities.
+
+## 5. PROPRIETARY & NON-OPEN SOURCE
+This project is officially released as a free, PROPRIETARY security tool. The source code is NOT open source. Any unauthorized modification, reverse engineering, or redistribution is strictly prohibited.
+
+## 6. LIMITATION OF LIABILITY
+JUTT CYBER TECH SHALL NOT BE HELD LIABLE FOR ANY MISUSE, DATA LOSS, OR LEGAL CONSEQUENCES ARISING FROM THE USE OF THIS SOFTWARE. BY RUNNING ASF PRO, YOU AGREE TO THESE TERMS AND CONFIRM YOU HAVE ALL NECESSARY PERMISSIONS FOR TESTING.
+
+(c) 2026 Jutt Cyber Tech. All rights reserved.
+Official Release by Jutt Cyber Tech.
