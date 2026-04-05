@@ -12,7 +12,7 @@
 
 <br/>
 
-## [🚀 Download ASF Pro v1.0.0](https://github.com/juttcybertech/ASF-Pro/releases/download/v1.0.0/Asf.Pro.zip)
+## [🚀 Download ASF Pro v1.0.0](https://juttcybertech.com/asf-pro))
 
 <br/>
 
