@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ ASF Pro
+# 🛡️ ASF ( Android Security Framework)
 
 **Professional Mobile Penetration Testing & Security Framework**
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-## [🚀 Download ASF Pro v1.0.0](https://juttcybertech.com/asf-pro))
+## [🚀 Download ASF  v1.0.0](https://juttcybertech.com/asf-pro))
 
 <br/>
 
@@ -32,7 +32,7 @@
 ---
 
 ## ⚖️ Ethical & Legal Guidelines
-ASF Pro is developed strictly for **Authorized Cybersecurity Research**.
+ASF  is developed strictly for **Authorized Cybersecurity Research**.
 Usage on unauthorized devices is **STRICTLY PROHIBITED**.
 All users must have explicit written permission before testing.
 
