@@ -12,7 +12,7 @@
 
 <br/>
 
-## [🚀 Download ASF  v1.0.0](https://juttcybertech.com/asf-pro))
+## [🚀 Comming Soon ](https://juttcybertech.com/asf-pro))
 
 <br/>
 
@@ -37,7 +37,7 @@ Usage on unauthorized devices is **STRICTLY PROHIBITED**.
 All users must have explicit written permission before testing.
 
 ## 📞 Official Information
-🌐 [juttcybertech.com](https://juttcybertech.com) | 📧 [juttcybertech@proton.me](mailto:juttcybertech@proton.me)
+🌐 [juttcybertech.com](https://juttcybertech.com) | 📧 [Contact@juttcybertech.com](mailto:contact@juttcybertech.com)
 
 *(c) 2026 Jutt Cyber Tech. All rights reserved.*
 
