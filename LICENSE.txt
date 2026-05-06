@@ -1,46 +1,339 @@
-OFFICIAL LICENSE AGREEMENT: ASF (ADVANCED SECURITY FRAMEWORK)
-PROJECT NAME: ASF (Advanced Security Framework)
+================================================================================
+         OFFICIAL END-USER LICENSE AGREEMENT (EULA)
+         ASF — ANDROID SECURITY FRAMEWORK
+================================================================================
 
-DEVELOPER: JUTT CYBER TECH
+PROJECT NAME  : ASF (Android Security Framework)
+DEVELOPER     : JUTT CYBER TECH
+CONTACT       : contact@juttcybertech.com
+WEBSITE       : https://juttcybertech.com
+COPYRIGHT     : (c) 2026 Jutt Cyber Tech. All Rights Reserved.
+DOCUMENT TYPE : Proprietary Software License Agreement — Official Release
 
-CONTACT: juttcybertech@proton.me
+--------------------------------------------------------------------------------
+PREAMBLE
+--------------------------------------------------------------------------------
 
-WEBSITE: https://juttcybertech.com
+This End-User License Agreement ("Agreement" or "License") is a legally binding
+contract between you, the individual or legal entity installing, copying,
+accessing, executing, or otherwise making use of the ASF (Android Security
+Framework) software ("Software"), and Jutt Cyber Tech ("Developer"), the sole
+author, owner, and official publisher of the Software.
 
-1. OFFICIAL STATUS & OWNERSHIP
-This software is an official release by Jutt Cyber Tech. It is a proprietary, closed-source security tool protected under international copyright and intellectual property laws.
+By installing, copying, downloading, executing, or in any other manner using
+the Software, you unconditionally accept and agree to be bound by every term,
+condition, restriction, and obligation set forth in this Agreement. If you do
+not agree to all of the terms and conditions contained herein, you are strictly
+prohibited from installing, accessing, or using the Software in any capacity
+whatsoever, and you must immediately destroy all copies of the Software in your
+possession or control.
 
-2. AUTHORIZED PROFESSIONAL USE
-ASF is a specialized security framework designed for:
+This Agreement constitutes the entire and exclusive legal understanding between
+you and Jutt Cyber Tech with respect to the Software and supersedes all prior
+negotiations, representations, warranties, and understandings of any kind,
+whether written or oral, relating to the subject matter hereof.
 
-Authorized Penetration Testing: Auditing and securing Android devices where the user has explicit, documented legal permission from the owner.
+--------------------------------------------------------------------------------
+SECTION 1 — OFFICIAL STATUS & OWNERSHIP
+--------------------------------------------------------------------------------
 
-Security Research: Identifying vulnerabilities and performing defensive analysis in controlled, isolated environments.
+1.1  The ASF (Android Security Framework) is an official, commercially
+     released software product developed, authored, and published exclusively
+     by Jutt Cyber Tech. The Software represents a proprietary, closed-source
+     security tool and constitutes the exclusive intellectual property of
+     Jutt Cyber Tech.
 
-Educational Forensics: Demonstrating advanced mobile security and digital forensics techniques for academic purposes.
+1.2  All rights, title, and interest in and to the Software, including but not
+     limited to all source code, object code, compiled binaries, algorithms,
+     data structures, user interface designs, documentation, configuration
+     files, scripts, modules, libraries, and any derivative works thereof, are
+     and shall remain the sole and exclusive property of Jutt Cyber Tech.
 
-3. ANTI-MALWARE POLICY
-Jutt Cyber Tech maintains a zero-tolerance policy regarding misuse. ASF shall not be used for:
+1.3  The Software is protected under applicable international copyright laws,
+     intellectual property treaties, trade secret laws, and all other relevant
+     national and international legal frameworks governing the protection of
+     proprietary software. These protections include, without limitation, the
+     Berne Convention for the Protection of Literary and Artistic Works, the
+     Agreement on Trade-Related Aspects of Intellectual Property Rights
+     (TRIPS), and all applicable domestic copyright statutes.
 
-Unauthorized surveillance, spying, or clandestine data interception.
+1.4  No title to or ownership of the Software or any portion thereof is
+     transferred to you under this Agreement. You acquire only the limited,
+     non-exclusive, non-transferable right to use the Software strictly in
+     accordance with the terms and conditions expressly set forth herein.
 
-Illegal access to private information, social media accounts, or financial credentials.
+1.5  The name "ASF," "Android Security Framework," and "Jutt Cyber Tech,"
+     along with all associated logos, trademarks, service marks, and trade
+     names, are the exclusive property of Jutt Cyber Tech. Nothing in this
+     Agreement grants you any right or license to use any such marks, names,
+     or logos in any manner whatsoever without the prior explicit written
+     consent of Jutt Cyber Tech.
 
-Any activity that violates the privacy rights of individuals or organizations.
+--------------------------------------------------------------------------------
+SECTION 2 — AUTHORIZED PROFESSIONAL USE
+--------------------------------------------------------------------------------
 
-Circumventing local, national, or international cybersecurity laws and regulations.
+2.1  The Software is a highly specialized security framework engineered
+     exclusively for legitimate, lawful, and professionally conducted
+     cybersecurity activities. The following categories of use are the sole
+     authorized purposes for which the Software may be employed:
 
-4. LEGAL COMPLIANCE
-Users are solely responsible for verifying the legality of their actions. Jutt Cyber Tech does not endorse, support, or allow the use of this tool for "Black Hat" or malicious activities. Any misuse constitutes a fundamental breach of this license and may result in the termination of access and reporting to relevant authorities.
+2.2  AUTHORIZED PENETRATION TESTING:
+     The Software may be used to conduct security audits, vulnerability
+     assessments, and penetration tests on Android devices and associated
+     systems, provided that the user has obtained prior, explicit, documented,
+     and legally valid written authorization from the rightful owner or
+     authorized administrator of every device, system, network, or data
+     repository that is subject to testing. Such authorization must be obtained
+     before any testing activity commences and must clearly define the scope,
+     duration, and nature of the permitted testing activities. The user bears
+     the sole and exclusive responsibility for obtaining, maintaining, and
+     being able to produce such authorization upon demand.
 
-5. PROPRIETARY & NON-OPEN SOURCE
-This project is released as a Proprietary Security Tool. The source code is NOT open source.
+2.3  SECURITY RESEARCH:
+     The Software may be used for the purpose of identifying, analyzing, and
+     documenting security vulnerabilities, weaknesses, and attack vectors
+     within controlled, isolated, and legally sanctioned research environments.
+     All such research activities must be conducted in a manner that does not
+     expose, compromise, or endanger any third-party systems, data, or
+     individuals. Research findings must be handled responsibly and in
+     accordance with established principles of responsible disclosure.
 
-Unauthorized modification, reverse engineering, or de-compilation is strictly prohibited.
+2.4  EDUCATIONAL FORENSICS:
+     The Software may be used for the purpose of demonstrating, teaching, and
+     studying Android mobile security concepts, digital forensics techniques,
+     and cybersecurity methodologies within academic, training, or educational
+     settings. All such educational use must occur within controlled
+     environments and must not involve the unauthorized access to, or
+     compromise of, any real-world systems, devices, or data belonging to
+     individuals or organizations who have not provided explicit consent.
 
-Redistribution of this software without explicit written consent from Jutt Cyber Tech is forbidden.
+2.5  Any use of the Software that falls outside the three categories expressly
+     described in Sections 2.2, 2.3, and 2.4 above is strictly unauthorized
+     and constitutes a material breach of this Agreement.
 
-6. LIMITATION OF LIABILITY
-JUTT CYBER TECH SHALL NOT BE HELD LIABLE FOR ANY MISUSE, DATA LOSS, SYSTEM DAMAGE, OR LEGAL CONSEQUENCES ARISING FROM THE USE OF THIS SOFTWARE. BY EXECUTING OR INSTALLING ASF, YOU AGREE TO THESE TERMS AND CONFIRM YOU POSSESS ALL NECESSARY AUTHORIZATIONS FOR SECURITY TESTING.
+--------------------------------------------------------------------------------
+SECTION 3 — ANTI-MALWARE POLICY & PROHIBITED USES
+--------------------------------------------------------------------------------
 
-(c) 2026 Jutt Cyber Tech. All rights reserved. Official Release by Jutt Cyber Tech.
+3.1  Jutt Cyber Tech maintains an absolute, unconditional, and non-negotiable
+     zero-tolerance policy with respect to any misuse, abuse, or unauthorized
+     application of the Software. The following activities are expressly,
+     categorically, and irrevocably prohibited under this Agreement:
+
+3.2  UNAUTHORIZED SURVEILLANCE:
+     The Software shall not, under any circumstances, be used to conduct
+     unauthorized surveillance, covert monitoring, clandestine observation,
+     or any form of secret data interception targeting any individual, group,
+     organization, or entity without their full, informed, and freely given
+     prior consent. This prohibition applies regardless of the technical
+     method employed and regardless of whether the target is aware of the
+     monitoring activity.
+
+3.3  ILLEGAL ACCESS TO PRIVATE INFORMATION:
+     The Software shall not be used to gain unauthorized access to, extract,
+     copy, transmit, or otherwise misappropriate any private, confidential, or
+     personally identifiable information, including but not limited to social
+     media account credentials, financial account information, banking data,
+     personal communications, private photographs, location data, contact
+     lists, or any other data that the owner has not explicitly authorized the
+     user to access.
+
+3.4  PRIVACY VIOLATIONS:
+     The Software shall not be used in any manner that violates, infringes
+     upon, or disregards the privacy rights of any individual or organization,
+     as recognized and protected under applicable local, national, and
+     international privacy laws, data protection regulations, and human rights
+     frameworks.
+
+3.5  CIRCUMVENTION OF CYBERSECURITY LAWS:
+     The Software shall not be used to circumvent, bypass, undermine, or
+     otherwise violate any applicable local, national, or international
+     cybersecurity laws, computer fraud and abuse statutes, data protection
+     regulations, electronic communications privacy laws, or any other legal
+     framework governing the lawful use of computer systems and digital
+     communications.
+
+3.6  The prohibitions set forth in this Section 3 are not exhaustive. Any use
+     of the Software that is unlawful, harmful, deceptive, or contrary to the
+     ethical standards of the professional cybersecurity community is
+     prohibited, whether or not such use is specifically enumerated herein.
+
+--------------------------------------------------------------------------------
+SECTION 4 — LEGAL COMPLIANCE & USER RESPONSIBILITY
+--------------------------------------------------------------------------------
+
+4.1  You, the user, bear the sole, exclusive, and non-delegable responsibility
+     for ensuring that every action you take using the Software is fully
+     compliant with all applicable laws, regulations, ordinances, and legal
+     requirements of every jurisdiction in which you operate or in which the
+     effects of your actions may be felt.
+
+4.2  Prior to using the Software for any purpose, you are obligated to conduct
+     a thorough and diligent review of all applicable laws and regulations
+     governing cybersecurity testing, digital forensics, and security research
+     in your jurisdiction. Ignorance of the law shall not constitute a defense
+     or excuse for any violation.
+
+4.3  Jutt Cyber Tech does not endorse, condone, support, facilitate, or permit
+     the use of the Software for any "Black Hat" activities, malicious hacking,
+     unauthorized intrusion, criminal exploitation, or any other activity that
+     is harmful, deceptive, or unlawful. The Software is designed and released
+     exclusively for defensive, protective, and educational cybersecurity
+     purposes.
+
+4.4  Any misuse of the Software, including but not limited to any use that
+     violates the terms of this Agreement or any applicable law, constitutes a
+     fundamental, material, and irremediable breach of this License. Upon such
+     breach, all rights granted to you under this Agreement shall immediately
+     and automatically terminate without notice, and Jutt Cyber Tech reserves
+     the right to report such misuse to all relevant law enforcement agencies,
+     regulatory authorities, and other competent bodies.
+
+4.5  You agree to indemnify, defend, and hold harmless Jutt Cyber Tech and its
+     officers, directors, employees, agents, and representatives from and
+     against any and all claims, damages, losses, liabilities, costs, and
+     expenses (including reasonable legal fees) arising out of or related to
+     your use or misuse of the Software, your violation of this Agreement, or
+     your violation of any applicable law or the rights of any third party.
+
+--------------------------------------------------------------------------------
+SECTION 5 — PROPRIETARY & NON-OPEN SOURCE STATUS
+--------------------------------------------------------------------------------
+
+5.1  The Software is released exclusively as a proprietary, closed-source
+     security tool. The source code of the Software is not open source, is not
+     publicly available, and is not licensed under any open-source license.
+     No provision of this Agreement shall be construed as granting you any
+     right, license, or permission to access, view, copy, modify, or
+     distribute the source code of the Software.
+
+5.2  PROHIBITION ON REVERSE ENGINEERING:
+     You are strictly prohibited from reverse engineering, disassembling,
+     decompiling, decrypting, or otherwise attempting to derive the source
+     code, underlying algorithms, data structures, or architectural design of
+     the Software, in whole or in part, by any means whatsoever, whether
+     manual, automated, or otherwise. This prohibition applies regardless of
+     the purpose for which such activity is undertaken and regardless of
+     whether the resulting information is used or disclosed.
+
+5.3  PROHIBITION ON UNAUTHORIZED MODIFICATION:
+     You are strictly prohibited from modifying, adapting, translating,
+     creating derivative works of, or otherwise altering the Software or any
+     component thereof without the prior explicit written consent of
+     Jutt Cyber Tech. Any unauthorized modification of the Software constitutes
+     a violation of Jutt Cyber Tech's intellectual property rights and a
+     material breach of this Agreement.
+
+5.4  PROHIBITION ON UNAUTHORIZED REDISTRIBUTION:
+     You are strictly prohibited from copying, distributing, sublicensing,
+     selling, renting, leasing, lending, transferring, or otherwise making the
+     Software available to any third party, whether for commercial gain or
+     otherwise, without the prior explicit written consent of Jutt Cyber Tech.
+     Any unauthorized redistribution of the Software, in whole or in part, in
+     original or modified form, constitutes a violation of Jutt Cyber Tech's
+     intellectual property rights and a material breach of this Agreement.
+
+5.5  Any attempt to circumvent the technical protection measures incorporated
+     into the Software is strictly prohibited and may constitute a violation of
+     applicable anti-circumvention laws, including but not limited to the
+     Digital Millennium Copyright Act (DMCA) and equivalent legislation in
+     other jurisdictions.
+
+--------------------------------------------------------------------------------
+SECTION 6 — LIMITATION OF LIABILITY & DISCLAIMER OF WARRANTIES
+--------------------------------------------------------------------------------
+
+6.1  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, JUTT CYBER TECH
+     EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED,
+     STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY IMPLIED
+     WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+     TITLE, NON-INFRINGEMENT, AND ANY WARRANTIES ARISING FROM COURSE OF
+     DEALING, COURSE OF PERFORMANCE, OR USAGE OF TRADE.
+
+6.2  JUTT CYBER TECH DOES NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR
+     REQUIREMENTS, THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED
+     OR ERROR-FREE, THAT DEFECTS IN THE SOFTWARE WILL BE CORRECTED, OR THAT
+     THE SOFTWARE IS FREE FROM VIRUSES OR OTHER HARMFUL COMPONENTS.
+
+6.3  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+     JUTT CYBER TECH, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, OR
+     REPRESENTATIVES BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+     CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES OF ANY KIND, INCLUDING BUT
+     NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, LOSS OF REVENUE, LOSS OF
+     DATA, LOSS OF GOODWILL, BUSINESS INTERRUPTION, SYSTEM DAMAGE, LEGAL
+     CONSEQUENCES, OR ANY OTHER PECUNIARY OR NON-PECUNIARY LOSS, ARISING OUT
+     OF OR IN CONNECTION WITH THIS AGREEMENT OR THE USE OR INABILITY TO USE
+     THE SOFTWARE, EVEN IF JUTT CYBER TECH HAS BEEN ADVISED OF THE POSSIBILITY
+     OF SUCH DAMAGES.
+
+6.4  JUTT CYBER TECH SHALL NOT BE HELD LIABLE, UNDER ANY LEGAL THEORY
+     WHATSOEVER, FOR ANY MISUSE OF THE SOFTWARE BY YOU OR ANY THIRD PARTY,
+     FOR ANY DATA LOSS OR CORRUPTION RESULTING FROM YOUR USE OF THE SOFTWARE,
+     FOR ANY DAMAGE TO HARDWARE OR SOFTWARE SYSTEMS CAUSED BY YOUR USE OF THE
+     SOFTWARE, OR FOR ANY LEGAL CONSEQUENCES, CIVIL OR CRIMINAL, THAT ARISE
+     FROM YOUR USE OR MISUSE OF THE SOFTWARE.
+
+6.5  BY EXECUTING, INSTALLING, OR OTHERWISE USING THE SOFTWARE, YOU
+     EXPRESSLY ACKNOWLEDGE AND AGREE THAT YOU HAVE READ AND UNDERSTOOD THIS
+     LIMITATION OF LIABILITY, THAT YOU CONSIDER IT REASONABLE AND FAIR IN
+     THE CIRCUMSTANCES, AND THAT YOUR ACCEPTANCE OF THIS LIMITATION IS AN
+     ESSENTIAL ELEMENT OF THE BARGAIN BETWEEN YOU AND JUTT CYBER TECH.
+
+6.6  BY EXECUTING OR INSTALLING ASF, YOU CONFIRM THAT YOU POSSESS ALL
+     NECESSARY LEGAL AUTHORIZATIONS, PERMISSIONS, AND CONSENTS REQUIRED TO
+     CONDUCT THE SECURITY TESTING OR OTHER ACTIVITIES FOR WHICH YOU INTEND
+     TO USE THE SOFTWARE, AND THAT YOUR USE OF THE SOFTWARE WILL AT ALL TIMES
+     BE IN FULL COMPLIANCE WITH ALL APPLICABLE LAWS AND REGULATIONS.
+
+--------------------------------------------------------------------------------
+SECTION 7 — GOVERNING LAW, JURISDICTION & SEVERABILITY
+--------------------------------------------------------------------------------
+
+7.1  GOVERNING LAW:
+     This Agreement shall be governed by and construed in accordance with the
+     laws of the Islamic Republic of Pakistan, without regard to its conflict
+     of law principles. The parties expressly agree that the courts of Pakistan
+     shall have primary jurisdiction over any dispute arising out of or in
+     connection with this Agreement.
+
+7.2  INTERNATIONAL COMPLIANCE:
+     Notwithstanding Section 7.1, users located outside Pakistan are solely
+     responsible for ensuring their use of the Software complies with all
+     applicable laws in their own jurisdiction, including but not limited to:
+     the Computer Fraud and Abuse Act (CFAA, United States), the Computer
+     Misuse Act (CMA, United Kingdom), the Prevention of Electronic Crimes
+     Act (PECA, Pakistan), the General Data Protection Regulation (GDPR,
+     European Union), and all equivalent cybersecurity and data protection
+     statutes applicable in their country of residence or operation.
+
+7.3  DEVELOPER DISTRIBUTION DISCLAIMER:
+     Jutt Cyber Tech distributes this Software exclusively for lawful
+     professional cybersecurity purposes. The Developer does not control
+     the end use of this Software once distributed and expressly disclaims
+     any liability arising from the unlawful use of this Software by any
+     third party in any jurisdiction. The act of distributing a security
+     research tool does not constitute facilitation of any criminal offense
+     where the tool is designed and intended solely for authorized use.
+
+7.4  SEVERABILITY:
+     If any provision of this Agreement is found to be invalid, illegal, or
+     unenforceable by a court of competent jurisdiction, such provision shall
+     be modified to the minimum extent necessary to make it enforceable, and
+     the remaining provisions of this Agreement shall continue in full force
+     and effect without impairment.
+
+--------------------------------------------------------------------------------
+ACKNOWLEDGMENT
+--------------------------------------------------------------------------------
+
+BY INSTALLING, COPYING, ACCESSING, EXECUTING, OR OTHERWISE USING THE SOFTWARE,
+YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT IN ITS ENTIRETY, THAT YOU
+FULLY UNDERSTAND ITS TERMS AND CONDITIONS, AND THAT YOU AGREE TO BE LEGALLY
+BOUND BY ALL OF ITS PROVISIONS.
+
+================================================================================
+(c) 2026 Jutt Cyber Tech. All Rights Reserved.
+Official Release by Jutt Cyber Tech — contact@juttcybertech.com
+https://juttcybertech.com
+================================================================================
